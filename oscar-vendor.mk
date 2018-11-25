@@ -243,7 +243,6 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/oscar/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
     vendor/smartisan/oscar/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/smartisan/oscar/proprietary/lib/libtt_panorama.so:system/lib/libtt_panorama.so \
-    vendor/smartisan/oscar/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
     vendor/smartisan/oscar/proprietary/lib64/hw/audio.primary.msm8953.so:system/lib64/hw/audio.primary.msm8953.so \
     vendor/smartisan/oscar/proprietary/lib64/hw/blestech.fingerprint.default.so:system/lib64/hw/blestech.fingerprint.default.so \
     vendor/smartisan/oscar/proprietary/lib64/hw/fingerprint.default.so:system/lib64/hw/fingerprint.default.so \
