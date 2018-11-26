@@ -217,7 +217,6 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/oscar/proprietary/etc/wifi/WCNSS_qcom_wlan_nv.bin:system/etc/wifi/WCNSS_qcom_wlan_nv.bin \
     vendor/smartisan/oscar/proprietary/etc/wifi/WCNSS_wlan_dictionary.dat:system/etc/wifi/WCNSS_wlan_dictionary.dat \
     vendor/smartisan/oscar/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
-    vendor/smartisan/oscar/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
     vendor/smartisan/oscar/proprietary/lib/libSensorManagerHAL.so:system/lib/libSensorManagerHAL.so \
     vendor/smartisan/oscar/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
     vendor/smartisan/oscar/proprietary/lib/libaptXScheduler.so:system/lib/libaptXScheduler.so \
@@ -234,14 +233,11 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/oscar/proprietary/lib/libifaa_daemon.so:system/lib/libifaa_daemon.so \
     vendor/smartisan/oscar/proprietary/lib/libifaa_jni.so:system/lib/libifaa_jni.so \
     vendor/smartisan/oscar/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/smartisan/oscar/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
-    vendor/smartisan/oscar/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/smartisan/oscar/proprietary/lib/libmms_gyro_vstab.so:system/lib/libmms_gyro_vstab.so \
     vendor/smartisan/oscar/proprietary/lib/libmms_gyro_vstab_auth.so:system/lib/libmms_gyro_vstab_auth.so \
     vendor/smartisan/oscar/proprietary/lib/libmms_hal_vstab.so:system/lib/libmms_hal_vstab.so \
     vendor/smartisan/oscar/proprietary/lib/libmms_warper_vstab.so:system/lib/libmms_warper_vstab.so \
     vendor/smartisan/oscar/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
-    vendor/smartisan/oscar/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/smartisan/oscar/proprietary/lib/libtt_panorama.so:system/lib/libtt_panorama.so \
     vendor/smartisan/oscar/proprietary/lib64/hw/audio.primary.msm8953.so:system/lib64/hw/audio.primary.msm8953.so \
     vendor/smartisan/oscar/proprietary/lib64/hw/blestech.fingerprint.default.so:system/lib64/hw/blestech.fingerprint.default.so \
