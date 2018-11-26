@@ -216,7 +216,6 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/oscar/proprietary/etc/sensors/sensor_def_qcomdev.conf:system/etc/sensors/sensor_def_qcomdev.conf \
     vendor/smartisan/oscar/proprietary/etc/wifi/WCNSS_qcom_wlan_nv.bin:system/etc/wifi/WCNSS_qcom_wlan_nv.bin \
     vendor/smartisan/oscar/proprietary/etc/wifi/WCNSS_wlan_dictionary.dat:system/etc/wifi/WCNSS_wlan_dictionary.dat \
-    vendor/smartisan/oscar/proprietary/lib/hw/audio.primary.msm8953.so:system/lib/hw/audio.primary.msm8953.so \
     vendor/smartisan/oscar/proprietary/lib/hw/camera.msm8953.so:system/lib/hw/camera.msm8953.so \
     vendor/smartisan/oscar/proprietary/lib/libSensorManagerHAL.so:system/lib/libSensorManagerHAL.so \
     vendor/smartisan/oscar/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
@@ -230,7 +229,6 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/oscar/proprietary/lib/libarcsoft_picselfie_algorithm.so:system/lib/libarcsoft_picselfie_algorithm.so \
     vendor/smartisan/oscar/proprietary/lib/libarcsoft_refocus_sm.so:system/lib/libarcsoft_refocus_sm.so \
     vendor/smartisan/oscar/proprietary/lib/libarcsoft_smart_denoise.so:system/lib/libarcsoft_smart_denoise.so \
-    vendor/smartisan/oscar/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
     vendor/smartisan/oscar/proprietary/lib/libifaa_daemon.so:system/lib/libifaa_daemon.so \
     vendor/smartisan/oscar/proprietary/lib/libifaa_jni.so:system/lib/libifaa_jni.so \
     vendor/smartisan/oscar/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
@@ -243,13 +241,11 @@ PRODUCT_COPY_FILES += \
     vendor/smartisan/oscar/proprietary/lib/libmpbase.so:system/lib/libmpbase.so \
     vendor/smartisan/oscar/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/smartisan/oscar/proprietary/lib/libtt_panorama.so:system/lib/libtt_panorama.so \
-    vendor/smartisan/oscar/proprietary/lib64/hw/audio.primary.msm8953.so:system/lib64/hw/audio.primary.msm8953.so \
     vendor/smartisan/oscar/proprietary/lib64/hw/blestech.fingerprint.default.so:system/lib64/hw/blestech.fingerprint.default.so \
     vendor/smartisan/oscar/proprietary/lib64/hw/fingerprint.default.so:system/lib64/hw/fingerprint.default.so \
     vendor/smartisan/oscar/proprietary/lib64/libBtlFpHal.so:system/lib64/libBtlFpHal.so \
     vendor/smartisan/oscar/proprietary/lib64/libBtlFpService.so:system/lib64/libBtlFpService.so \
     vendor/smartisan/oscar/proprietary/lib64/lib_ifaa_tac.so:system/lib64/lib_ifaa_tac.so \
-    vendor/smartisan/oscar/proprietary/lib64/libaudioroute.so:system/lib64/libaudioroute.so \
     vendor/smartisan/oscar/proprietary/lib64/libgf_ca.so:system/lib64/libgf_ca.so \
     vendor/smartisan/oscar/proprietary/lib64/libgf_hal.so:system/lib64/libgf_hal.so \
     vendor/smartisan/oscar/proprietary/lib64/libgoodixfingerprintd_binder.so:system/lib64/libgoodixfingerprintd_binder.so \
